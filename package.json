@@ -1,0 +1,23 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Landing page del curso de asincronismo con JS.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwinMiguel/Landing-page.git"
+  },
+  "keywords": [],
+  "author": "Edwin Orellana <miguelorellanasotomayor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdwinMiguel/Landing-page/issues"
+  },
+  "homepage": "https://github.com/EdwinMiguel/Landing-page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
